@@ -10,6 +10,8 @@ namespace guiGIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sdfsdf");
+            Console.ReadKey();
         }
     }
 }
